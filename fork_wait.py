@@ -1,3 +1,4 @@
+##02ccc ok go go
 """This test case provides support for checking forking and wait behavior.
 
 To test different wait behavior, override the wait_impl method.
